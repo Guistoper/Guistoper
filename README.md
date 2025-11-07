@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Guilherme, also known as Guistoper, I'm from São Paulo, Brazil<br><br>- 🔭 I’m working as Freelancer at Workana<br>- 📚 I'm currently studying Software Development and Analysis<br>- ⚡ In my free time I play games</p>
+<p align="left">I'm Guilherme, also known as Guistoper ([LinkedIn](https://www.linkedin.com/in/guistoper/)) ([profissional.guilherme.menezes@gmail.com](mailto:profissional.guilherme.menezes@gmail.com)), I'm from São Paulo, Brazil<br><br>- 🔭 I’m working as Freelancer at Workana<br>- 📚 I'm currently studying Software Development and Analysis<br>- ⚡ In my free time I play games and learn new things</p>
 
 ###
 
